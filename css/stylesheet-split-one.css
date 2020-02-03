@@ -688,7 +688,7 @@ body .nc-background--black .hero-teaser .cmp-list .cmp-list__item-link {
   object-fit: cover;
 }
 
-.hero-teaser .cmp-teaser .button {
+.hero .hero-teaser .cmp-teaser .button {
   margin: 31px 10px 31px 0;
   display: inline-block;
 }

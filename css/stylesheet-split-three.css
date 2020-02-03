@@ -924,9 +924,9 @@
     clear: both;
   }
 
-  /* .aem-Grid > .aem-GridColumn.aem-GridColumn--phone--hide {
+  .aem-Grid > .aem-GridColumn.aem-GridColumn--phone--hide {
     display: none
-  } */
+  }
 }
 
 @media (min-width: 600px) and (max-width: 991px) {
@@ -1254,7 +1254,7 @@
     clear: both;
   }
 
-  /* .aem-Grid > .aem-GridColumn.aem-GridColumn--tablet--hide {
+  .aem-Grid > .aem-GridColumn.aem-GridColumn--tablet--hide {
     display: none;
-  } */
+  }
 }
