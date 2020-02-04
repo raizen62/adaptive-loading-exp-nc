@@ -925,7 +925,7 @@
   }
 
   .aem-Grid > .aem-GridColumn.aem-GridColumn--phone--hide {
-    display: none
+    display: none;
   }
 }
 
